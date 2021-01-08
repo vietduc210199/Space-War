@@ -1,23 +1,29 @@
-# Space-War
-I.	What is Space War?
--	A mobile platform game.
--	Endless gameplay.
--	Shoot ‘em up
--	Action
+# README #
 
-II.	What’s Space War about?
+This README would normally document whatever steps are necessary to get your application up and running.
 
--	In Space war player get to control there’s own Space ship and fight with various type of enemy out the space and after each level they have there’s reward and use that to get stronger, get new ship and new powerful weapon.
+### What is this repository for? ###
 
-III.	What make the game original?
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
--	Fun gameplay.
--	Model and design of weapon colorful.
--	The gameplay is hard enough for player that want some challenge but also give newbie time to learn how to play it well.
--	Have many type of weapon.
+### How do I get set up? ###
 
-IV.	Level design
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
 
--	Level design from easy to hard and will let player have time to get used to new type of enemy
--	A boss fight every 5 level
--	Will update more Space environment in the future
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
